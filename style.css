@@ -1,0 +1,7 @@
+.clip-path{
+    margin: 80px;
+    width: 600px;
+    height: 600px;
+    background-image: linear-gradient(crimson, royalblue);
+    clip-path: url(#gatito);
+}
